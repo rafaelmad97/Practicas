@@ -26,5 +26,5 @@ RoadMap de ejercicios.
 
 Todos los commits que se apliquen a la rama main, son para agregar nuevos ejercicios y se deben fusionar los cambios de la rama con la rama develop
 
-> develop - rama de trabajo  -> "Nombre del lenguaje"  - Para mayor orden, cada rama debe ser basada en develop
+> develop - rama de trabajo  -> "RutadelEjercicio/Nombre" - Para mayor orden, cada rama debe ser basada en develop
 
